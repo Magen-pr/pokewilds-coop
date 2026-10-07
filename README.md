@@ -6,6 +6,9 @@ Multiplayer was planned for PokeWilds 0.9 but that version never came out, and m
 
 It's still a dev build, so there will be bugs. Any bug report or idea for improvement will be appreciated.
 
+![Surfing with a friend](screenshot-surf-friend.png)
+![Riding with a friend](screenshot-ride-friend.png)
+![Map with player arrows for locate friends](screenshot-map-zoom.png)
 
 ## How to Download
 
