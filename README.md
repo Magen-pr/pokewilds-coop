@@ -16,6 +16,16 @@ It's still a dev build, so there will be bugs. Any bug report or idea for improv
 
 - **Dedicated server (optional):** [PokeWilds-Coop-Server.zip](https://github.com/Magen-pr/pokewilds-coop/releases/latest/download/PokeWilds-Coop-Server.zip)
 
+ ## Virustotal scan
+ PokeWilds-Coop-Mod.zip:
+ https://www.virustotal.com/gui/file/e71bd1e04fe3d86398431bd8530d767b1753fbf48481a1eed2b4b761a97c0197?nocache=1
+ SHA-256: e71bd1e04fe3d86398431bd8530d767b1753fbf48481a1eed2b4b761a97c0197
+
+ PokeWilds-Coop-Server.zip:
+ https://www.virustotal.com/gui/file/76979e2ad7b7da08417f1e3daec47d88af7a43a5fe11f713eca344fe40abefd7?nocache=1
+ SHA-256: 76979e2ad7b7da08417f1e3daec47d88af7a43a5fe11f713eca344fe40abefd7 
+
+ 
 
 You also need the official game. You can find it in https://github.com/SheerSt/pokewilds/releases.
 The mod only works on the version 0.8.11.
